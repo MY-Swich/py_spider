@@ -1,7 +1,11 @@
 import xlrd
 import re
 import os
-
+###
+#为了更简单的计算加权平均分，特地写了这段代码^-^
+#
+#
+###
 def jisuan(lb):
     sum = 0
     xf = 0
