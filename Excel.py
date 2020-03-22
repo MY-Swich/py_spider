@@ -66,4 +66,5 @@ while 1:
                 print("计算过程可能存在误差，请认真核实最后成绩")
                 break
     else:
-        print("没有找到文件")
+        # print("没有找到文件")
+        print("找不到文件")
